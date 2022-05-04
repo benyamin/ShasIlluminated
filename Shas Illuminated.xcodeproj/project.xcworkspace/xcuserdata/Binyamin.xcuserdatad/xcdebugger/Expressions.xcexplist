@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #2 in HomeViewController.getTodaysShiurim():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ShasIlluminatedManager.sharedManager.todaysShiurim">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in HomeViewController.getMasechtot():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " ShasIlluminatedManager.sharedManager.sdarim">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in HomeViewController.getAllMasechtot():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " ShasIlluminatedManager.sharedManager.allMasechtot">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GetMasechtotProcess.executeWithObj(_:):GetMasechtotProcess.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Masechet.updateWithInfo(_:):Masechet.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in GetTodaysShiurimProcess.runWebServiceWithRequest(_:):GetTodaysShiurimProcess.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:cellForRowAt:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "displayedSdarim">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PageLessonTableCell.reloadWithObject(_:):PageLessonTableCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.daf?.sponsers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
